@@ -1,6 +1,6 @@
 ### Criando Meu Primeiro Projeto
 
-Repositório de Anotações de Estudo do Bootcamp da Impulso.
+Repositório de Anotações de Estudo do Bootcamp da Impulso
 
 Links Úteis 
 
