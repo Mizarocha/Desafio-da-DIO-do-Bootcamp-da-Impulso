@@ -1,7 +1,6 @@
-## Criando Meu Primeiro Projeto
+# Criando Meu Primeiro Projeto
 
 Repositório de Anotações de Estudo de Bootcamp
 
-LINK ÚTEIS
-
-https://web.digitalinnovation.one/home
+## Links Úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
